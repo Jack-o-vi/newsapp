@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_weather">Weather</string>
+    <string name="title_saved">Saved</string>
+    <string name="title_news">News</string>
+</resources>
